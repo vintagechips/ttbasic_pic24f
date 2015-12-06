@@ -1,0 +1,1 @@
+void basic(void);
